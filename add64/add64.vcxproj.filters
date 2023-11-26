@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="..\..\..\..\..\..\AKO\lab4_s\lab4_s\add_64.asm">
+    <MASM Include="add_64.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\AKO\lab4_s\lab4_s\main.c">
+    <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
